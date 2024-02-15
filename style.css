@@ -12,6 +12,10 @@ h1 {
     color: rgb(0, 183, 255);
 }
 
+p {
+  margin: 32px;
+}
+
 ul {
     font-family: Arial, Helvetica, sans-serif;
 }
