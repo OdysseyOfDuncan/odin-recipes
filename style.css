@@ -69,3 +69,8 @@ button {
     margin: 4px 2px;
     cursor: pointer;
 }
+
+li {
+  padding: 8px;
+  margin: 8px 16px;
+}
